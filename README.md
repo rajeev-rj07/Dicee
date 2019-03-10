@@ -1,5 +1,5 @@
 # Dicee
 Lost your dice? Use Dicee app as your virtual dice.
 
-Upcoming modification:
+# Upcoming modification:
 1. Auto Layout
